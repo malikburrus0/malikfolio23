@@ -19,7 +19,7 @@ const About = () => {
                         </div>
                         <div>
                             <p>
-                            I'm a Full Stack Developer based in Michigan. I have a passion for web development and love to create for web and mobile devices.
+                            I'm a Full Stack Developer based in Michigan. I recently have been certified by Michigan State University. I have a passion for web development and love to create for web and mobile devices.
                             </p>
                         </div>
                     </div>
